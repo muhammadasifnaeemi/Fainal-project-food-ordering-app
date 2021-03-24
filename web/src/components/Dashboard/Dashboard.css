@@ -1,0 +1,7 @@
+.foodContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.foodCard {
+  margin: 10px auto;
+}
